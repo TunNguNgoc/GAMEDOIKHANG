@@ -10,8 +10,6 @@ function getTimestampInSeconds () {
 
 }
 
-
-
 class Sprite {
    
   
